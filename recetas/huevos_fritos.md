@@ -1,4 +1,4 @@
-# Huevos fritos
+## Huevos fritos
 
 1. Comprar huevos
 2. Calentar aceite
